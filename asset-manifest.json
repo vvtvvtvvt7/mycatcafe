@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.js": "/mycatcafe/static/js/main.b24f06fa.chunk.js",
+    "main.js.map": "/mycatcafe/static/js/main.b24f06fa.chunk.js.map",
+    "runtime-main.js": "/mycatcafe/static/js/runtime-main.e6a7dc32.js",
+    "runtime-main.js.map": "/mycatcafe/static/js/runtime-main.e6a7dc32.js.map",
+    "static/css/2.0ab26c9e.chunk.css": "/mycatcafe/static/css/2.0ab26c9e.chunk.css",
+    "static/js/2.a827c804.chunk.js": "/mycatcafe/static/js/2.a827c804.chunk.js",
+    "static/js/2.a827c804.chunk.js.map": "/mycatcafe/static/js/2.a827c804.chunk.js.map",
+    "index.html": "/mycatcafe/index.html",
+    "static/css/2.0ab26c9e.chunk.css.map": "/mycatcafe/static/css/2.0ab26c9e.chunk.css.map",
+    "static/js/2.a827c804.chunk.js.LICENSE.txt": "/mycatcafe/static/js/2.a827c804.chunk.js.LICENSE.txt",
+    "static/media/about.03817024.svg": "/mycatcafe/static/media/about.03817024.svg",
+    "static/media/buy-background.b541d6e8.svg": "/mycatcafe/static/media/buy-background.b541d6e8.svg",
+    "static/media/buy-right-background-top.7dfa414c.svg": "/mycatcafe/static/media/buy-right-background-top.7dfa414c.svg",
+    "static/media/buy-right-background.f268dc4e.svg": "/mycatcafe/static/media/buy-right-background.f268dc4e.svg",
+    "static/media/gallery-background.102870ab.svg": "/mycatcafe/static/media/gallery-background.102870ab.svg",
+    "static/media/gallery-left.f62ebb22.svg": "/mycatcafe/static/media/gallery-left.f62ebb22.svg",
+    "static/media/gallery-right.2cc868a8.svg": "/mycatcafe/static/media/gallery-right.2cc868a8.svg",
+    "static/media/left-arrow.f3deb9da.svg": "/mycatcafe/static/media/left-arrow.f3deb9da.svg",
+    "static/media/logo.d7c4ff6d.svg": "/mycatcafe/static/media/logo.d7c4ff6d.svg",
+    "static/media/map-mark.7522c3fc.svg": "/mycatcafe/static/media/map-mark.7522c3fc.svg",
+    "static/media/stars-image.f6ee057f.svg": "/mycatcafe/static/media/stars-image.f6ee057f.svg",
+    "static/media/stars-left.9e6dbdcd.svg": "/mycatcafe/static/media/stars-left.9e6dbdcd.svg",
+    "static/media/stars-right.1e0a1a53.svg": "/mycatcafe/static/media/stars-right.1e0a1a53.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e6a7dc32.js",
+    "static/css/2.0ab26c9e.chunk.css",
+    "static/js/2.a827c804.chunk.js",
+    "static/js/main.b24f06fa.chunk.js"
+  ]
+}
